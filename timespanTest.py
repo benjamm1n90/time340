@@ -55,5 +55,5 @@ print(dur6)
 print(dur6.get_hours(), dur6.get_minutes(), dur6.get_seconds())
 dur6 = -dur6
 print(dur6)
-print("^ neg should be 6, -18, -9")
+print("^ neg should be 6, -18, -9 all negated")
 
